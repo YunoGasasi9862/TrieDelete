@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrieDelete", "TrieDelete\TrieDelete.vcxproj", "{632AA1E6-2198-4E44-A5A5-1C67240518DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Debug|x64.ActiveCfg = Debug|x64
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Debug|x64.Build.0 = Debug|x64
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Debug|x86.Build.0 = Debug|Win32
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Release|x64.ActiveCfg = Release|x64
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Release|x64.Build.0 = Release|x64
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Release|x86.ActiveCfg = Release|Win32
+		{632AA1E6-2198-4E44-A5A5-1C67240518DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90CEA8C-9488-4C88-BC38-28953D78D68F}
+	EndGlobalSection
+EndGlobal
